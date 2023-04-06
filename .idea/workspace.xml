@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="169f9aad-fd97-47c2-8d40-5670c848924d" name="Changes" comment="Adding new routes. creating parameter. creating forms. shortening code.">
-      <change afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student_entry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student_view_all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hello.html" afterDir="false" />
-    </list>
+    <list default="true" id="169f9aad-fd97-47c2-8d40-5670c848924d" name="Changes" comment="inserted email address" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +102,7 @@
       <workItem from="1680218019655" duration="87000" />
       <workItem from="1680734748677" duration="176000" />
       <workItem from="1680735494219" duration="2476000" />
-      <workItem from="1680738367803" duration="4643000" />
+      <workItem from="1680738367803" duration="5057000" />
     </task>
     <task id="LOCAL-00001" summary="added more comments">
       <created>1675297388929</created>
@@ -149,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680215541615</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="inserted email address">
+      <created>1680743043261</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680743043262</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +169,8 @@
     <MESSAGE value="Added a new route for a hello html page" />
     <MESSAGE value="Added a new route for about.html and create the website for about.html" />
     <MESSAGE value="Adding new routes. creating parameter. creating forms. shortening code." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding new routes. creating parameter. creating forms. shortening code." />
+    <MESSAGE value="inserted email address" />
+    <option name="LAST_COMMIT_MESSAGE" value="inserted email address" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/helloWorld2$helloWorld2.coverage" NAME="helloWorld2 Coverage Results" MODIFIED="1680742936359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
